@@ -16,7 +16,7 @@ We can understand why calculating averages in this way gives us an approximate v
 
  where ![](https://render.githubusercontent.com/render/math?math=P(x)) is a probability density.  The law of large numbers and central limit theorem tell us that:
  
-![](https://render.githubusercontent.com/render/math?math=\langle\A\rangle\approx\frac{1}{N}\sum_{i=1}^{N}A(X_i)
+![](https://render.githubusercontent.com/render/math?math=\langle\A\rangle\approx\frac{1}{N}\sum_{i=1}^{N}A(X_i))
 
 where each ![](https://render.githubusercontent.com/render/math?math=X_i) in this expression is a random sample from the distribution with probability density ![](https://render.githubusercontent.com/render/math?math=P(x)).
 
